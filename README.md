@@ -1,4 +1,4 @@
-# LaZer_Maze
+# LaZer_Maze[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)  [![HitCount](http://hits.dwyl.io/ASH1998/android-digit-recogniser.svg)](http://hits.dwyl.io/ASH1998/android-digit-recogniser)
 This is an event organized in our college IGIT Sarang in Tchnovation 2.0.
 
 ## Description:
